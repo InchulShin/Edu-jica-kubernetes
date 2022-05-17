@@ -2,8 +2,6 @@
 
 ![](jica-logo.png)
 
-<img src="thumb.course-kubernetes.jpg" alt="" data-size="original">
-
 <img src="kubernetes-course.jpg" alt="" data-size="original">
 
 <!--
