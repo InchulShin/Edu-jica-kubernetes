@@ -2,16 +2,16 @@
 
 ![](jica-logo.png)
 
-<img src="kubernetes-course.jpg" alt="" data-size="original">
+<p align="center"><img src="kubernetes-course.jpg"></p>
 
 <!--
 <details>
 
 <summary>Kubernetes를 활용한 마이크로서비스 구현</summary>
 
-<img src="thumb.course-kubernetes.jpg" alt="" data-size="original">
+<p align="center"><img src="thumb.course-kubernetes.jpg"></p>
 
-<img src="kubernetes-course.jpg" alt="" data-size="original">
+<p align="center"><img src="kubernetes-course.jpg"></p>
 
 </details>
 -->
