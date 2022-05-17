@@ -1,18 +1,19 @@
 # 전주정보문화산업진흥원
 
-<p align="center"><img src="jica-logo.png"></p>
+![](jica-logo.png)
 
-<p align="center"><img src="kubernetes-course.jpg"></p>
+<img src="thumb.course-kubernetes.jpg" alt="" data-size="original">
+
+<img src="kubernetes-course.jpg" alt="" data-size="original">
 
 <!--
 <details>
+
 <summary>Kubernetes를 활용한 마이크로서비스 구현</summary>
-<div markdown="1">
 
-<p align="center"><img src="thumb.course-kubernetes.jpg"></p>
+<img src="thumb.course-kubernetes.jpg" alt="" data-size="original">
 
-<p align="center"><img src="kubernetes-course.jpg"></p>
+<img src="kubernetes-course.jpg" alt="" data-size="original">
 
-</div>
 </details>
 -->
