@@ -1,2 +1,0 @@
-# Amazon API Gateway
-
